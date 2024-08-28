@@ -8,7 +8,7 @@ Limited Testing on PC Chernaus Local Server DAYZ Exp Version 1.26 Aug 2024.
 
 BIG THANKS TO: XMC 
 
-His Orginal Gothub, with the Oil Rig Spawning South of Chernogorsk: https://github.com/XMC-Cross/XMCs-Oil-Rig
+His Orginal Github, with the Oil Rig Spawning South of Chernogorsk: https://github.com/XMC-Cross/XMCs-Oil-Rig
 
 Many Thanks To Inclement Dab for his amazing DayZ Editor that makes this all possible: https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298
 
